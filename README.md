@@ -1,2 +1,2 @@
 # MyDoc
-document website
+document website coding 12hr a day
